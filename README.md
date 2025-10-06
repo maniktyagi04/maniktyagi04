@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Manik Tyagi</h1>
-<h3 align="center">A passionate Mern Stack Developer from India</h3>
+<h1 align="center">Hi, I'm Manik Tyagi</h1>
+<h2 align="center">A passionate Mern Stack Developer from India</h2>
 
 
 ## 🚀 About Me  
-🎓 B.Tech CSE student passionate about Full-Stack & AI-Driven Development  
+🎓 B.Tech CSE student passionate about Mern-Stack & AI-Driven Development  
 💡 Exploring technologies that merge AI with real-world web & mobile applications  
 📱 Building cross-platform mobile apps with Flutter & React Native  
 🎯 Goal: To become a versatile AI-powered mern-stack innovator. 
