@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="180px">
-      <img src="YOUR_IMAGE_LINK_HERE" width="160px" style="border-radius: 50%;" />
+      <img src="https://cdn-learn.adafruit.com/guides/images/000/003/613/medium800/Fancy_Octocat_guide_image.png" width="160px" style="border-radius: 50%;" />
     </td>
     <td>
       <h1>Manik Tyagi</h1>
