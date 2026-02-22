@@ -1,5 +1,20 @@
-<h1 align="center">Hi, I'm Manik Tyagi</h1>
-<h2 align="center">A passionate Mern Stack Developer from India</h2>
+<table>
+  <tr>
+    <td width="180px">
+      <img src="YOUR_IMAGE_LINK_HERE" width="160px" style="border-radius: 50%;" />
+    </td>
+    <td>
+      <h1>Manik Tyagi</h1>
+      <h3>Full Stack Developer | MERN + AI Systems</h3>
+      <p>
+        Building scalable backend systems, AI-driven applications, 
+        and production-ready full stack products.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 
 
 # 💫 About Me:
