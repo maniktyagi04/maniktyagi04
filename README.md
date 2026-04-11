@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Manik+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Building+Real+Projects+%F0%9F%9A%80;Next.js+%26+Backend+Focused+%F0%9F%94%A5;Learning+by+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=HEY%2C+I'M+MANIK+TYAGI+%F0%9F%91%8B;FULL-STACK+DEVELOPER+%F0%9F%92%BB;OPEN+SOURCE+CONTRIBUTOR+%F0%9F%8C%8D;BUILDING+FULL-STACK+APPS+%F0%9F%9A%80;LEARNING+BY+BUILDING" />
 </p>
 
 <p align="center">  
