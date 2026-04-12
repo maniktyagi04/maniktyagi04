@@ -20,28 +20,27 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-I'm **Manik Tyagi**, a B.Tech student focused on building real-world systems instead of wasting time on passive learning.
+### Hey, I'm Manik Tyagi 👋  
+#### Full Stack Developer • Open Source Contibutor 
 
-🎯 Focused on **skills that actually matter in industry**  
-⚙️ Build → Break → Debug → Improve loop  
-🚀 Currently working on **Full Stack + Backend-heavy apps**  
-💼 Actively preparing for **internships**
+Building real-world systems and solving practical problems through hands-on development.
+
+---
+
+### 🚀 What I Do
+
+- 🎯 Focused on **skills that actually matter in industry**  
+- ⚙️ **Build → Break → Debug → Improve**  
+- 🚀 Working on **Full Stack + Backend-heavy applications**  
+- 🌍 Exploring and contributing to **Open Source**  
+- 💼 Preparing for **internships & real-world impact**
 
 <br clear="right"/>
 
 ---
 
-## ⚡ What I Do
-
-- 🔨 Build **real-world applications**
-- 🧠 Practice **DSA & problem solving**
-- ⚙️ Work with **modern full-stack tools**
-- 📚 Learn by **execution, not tutorials**
-- 🎯 Aim for **production-level quality**
-
----
 
 ## 🛠️ Tech Stack
 
