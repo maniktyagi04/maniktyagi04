@@ -130,8 +130,8 @@ AI-based system that evaluates user profiles against real internship requirement
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maniktyagi04&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maniktyagi04&theme=tokyo-night&hide_border=true" width="95%" />
 
 </div>
 
